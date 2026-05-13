@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Coders, Welcome to My Coding World!<br>🌱 I’m currently learning node.js | Next.js | Advanced JavaScript <br>⚡ Writing code at 2 AM: where bugs are born and breakthroughs happen!"<br>TBH(){<br>     print("Coding has never excited me but now Every day i learn something New"<br>}
+Hello Coders, Welcome to My Coding World!<br>🌱 I’m currently learning Web Development, AI, Generative AI <br>⚡ Writing code at 2 AM: where bugs are born and breakthroughs happen!"<br>TBH(){<br>     print("Coding has never excited me but now Every day i learn something New"<br>}
 
 
 ## 🌐 Socials:
