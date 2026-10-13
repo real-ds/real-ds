@@ -8,7 +8,7 @@
 
 <br>
 
-<h3><b>Writing code at 2 AM, where bugs are born and breakthroughs happen.</b></h3>
+<h3><b>Incorporating Code with Creativity</b></h3>
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ```python
 def TBH():
-    print("Incorporating Code with Creativity")
+    print("Building Solutions of Real World Problems with AI")
 ```
 
 ---
