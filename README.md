@@ -129,10 +129,6 @@ def TBH():
 
 <div align="center">
 
-<h1>QUOTE</h1>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote">
-
 <br>
 <br>
 
